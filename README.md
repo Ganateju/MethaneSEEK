@@ -137,13 +137,13 @@ Each landfill prediction includes a confidence tag:
 
 ## 👥 Team
 
-**Team MethaneSEEK**
+**Team Code Black**
 
-| Role | Responsibility |
+| Name | Responsibility |
 |-----|---------------|
-| Builder | Core system development |
-| Prompt Engineer | AI interaction & tuning |
-| Testing & Documentation | QA + reporting |
+| P.Ganateju | Core system development |
+| P.Keerthana | AI interaction & tuning |
+| K.Arun Kumar | QA + reporting |
 
 ---
 
